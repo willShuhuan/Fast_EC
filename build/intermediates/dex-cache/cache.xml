@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.6.0\48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8\butterknife-annotations-8.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\butterknife-annotations-8.6.0_1e9486226db940d9ca5d43c77ccdeae15ca35a19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DHStore\example\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_8e5bc9947a5f88d9953268ae1ec43099155cc7c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DHStore\example\build\intermediates\exploded-aar\com.joanzapata.iconify\android-iconify\2.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="970b2eadc8805e4e04a9008f97368c7b8cc78651">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\com.joanzapata.iconify-android-iconify-2.2.2_bc41a14106271f29072db030ac0ee74173c21c97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DHStore\example\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_0a068850ba79c81a10d5210d36b1a74a35af36ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DHStore\example\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.6.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="be587097e648eabfb7f9eca23ab03369894e2d5d">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.6.0_0cb8dfa58615490c9c44f0d656f95f46395066c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DHStore\example\build\intermediates\exploded-aar\DHStore\latte-core\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f8f626da248151d9fc329f60cb338ba0dbeb39bb">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\DHStore-latte-core-unspecified_c837888ef63660a3cc0a7df414e9de701a5a3c22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DHStore\example\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_263e1c1ee10af728ffd0d1850af4f7033c56ca0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DHStore\example\build\intermediates\exploded-aar\me.yokeyword\fragmentation-core\1.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9f856f32ae26afce3580e0dca1e9512c59b14498">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\me.yokeyword-fragmentation-core-1.0.3_acc53e40b91b150104ffc15db7b75e8ad8800f12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DHStore\example\build\intermediates\exploded-aar\me.yokeyword\fragmentation-swipeback\1.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c94fb0b9454384f51a21ca5e01b2a46551cb5f06">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\me.yokeyword-fragmentation-swipeback-1.0.3_1259443e9563bcfcad9ea3b48d958b623096257c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ASsdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_0dd0768ddf810beae76bd1c1e3c621849f571fcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DHStore\example\build\intermediates\exploded-aar\me.yokeyword\fragmentation\1.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7a038e2b43523099a6b30aeea0683a0ba2d44ba2">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\me.yokeyword-fragmentation-1.0.3_6123dec3b3cfa140f3ba0d71bb6f7bd8d317309d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DHStore\example\build\intermediates\exploded-aar\com.joanzapata.iconify\android-iconify-ionicons\2.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f71558fd43c0f31c018bd01e950bd6e32aa67dff">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\com.joanzapata.iconify-android-iconify-ionicons-2.2.2_c3f4df1b0f775acffdf3ec573db140bc17b2acbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DHStore\example\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_6c2feb8dbd68e48f7cb5863e3e1e299699962030.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DHStore\example\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_40d70b6c0573a0167e5955d3f67f99470934a30f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DHStore\example\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_77203ddb84027c0a4c00dc767c89e880c9650405.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DHStore\example\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_045bc34722ef60191eb92f148f9f0eae33715fcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DHStore\example\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_dd74c1aca40cbe5e7f699a2c3379ca7cd1ae470d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DHStore\example\build\intermediates\exploded-aar\com.joanzapata.iconify\android-iconify-fontawesome\2.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="af20faf2a6fff6cac01bb9ee4130ee942a29ec22">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\com.joanzapata.iconify-android-iconify-fontawesome-2.2.2_2c9e23816302c6ff94075fe0871b2c4142bc271a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DHStore\example\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_15524939175e52537e11eb9066b7fb0be358553c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DHStore\example\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_b8498552d782175d474a933de58acc5a6d856e3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DHStore\example\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_270b0f67343b8683a01150f1cc136bf1c023b064.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DHStore\example\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_67862cb2f30c509f38da413721d741a886877705.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DHStore\example\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\com.android.support-multidex-1.0.1_50bd1f4b9c763a735f88d99f07358576063efb1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DHStore\example\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_415f89a1417f08eeee8866df17ee5b99bc2261fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\ASsdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_fb25063d7e9fbcf378b729268cf49d889802cb3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DHStore\latte-annotations\build\libs\latte-annotations.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f5cc3592ecb54c46762f4f111f4de821834358e0">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\latte-annotations_3a512441b58efe77e24995c039ed3cd000faa765.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DHStore\example\build\intermediates\exploded-aar\DHStore\latte-ec\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3a515d33dc9f76bbe8c91953311895ea04391ef7">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\DHStore-latte-ec-unspecified_d6ee45e0e772a870f77d95546770a9ee1c7121fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DHStore\example\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.3.1_b54a7bb47036789bbe403c4966fc44e84a8f6ebf.jar" />
+    </item>
+
+</items>
