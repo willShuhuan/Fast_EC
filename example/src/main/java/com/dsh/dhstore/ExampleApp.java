@@ -1,6 +1,7 @@
 package com.dsh.dhstore;
 
 import android.app.Application;
+import android.util.Log;
 
 import com.dsh.latte.app.Latte;
 import com.dsh.latte.ec.icon.FontEcModule;
@@ -19,7 +20,8 @@ public class ExampleApp extends Application {
         Latte.init(this)
                 .withIcon(new FontAwesomeModule())//字体图标
                 .withIcon(new FontEcModule())//自定义图标
-//                .withApiHost("")
+                .withApiHost("http://192.168.1.99/")
                 .configure();
+        Log.d("ExampleApp", "onCreate: ExampleApp初始化完成");
     }
 }

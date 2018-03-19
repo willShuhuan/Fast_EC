@@ -43,6 +43,7 @@ public class Configurator {
 
     public final Configurator withApiHost(String host){
         LATTE_CONFIGS.put(ConfigType.API_HOST.name(),host);
+        Log.d("ExampleApp", "withApiHost: "+LATTE_CONFIGS);
         return this;
     }
 
