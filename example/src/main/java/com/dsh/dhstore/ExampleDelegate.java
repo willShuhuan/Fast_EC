@@ -29,9 +29,10 @@ public class ExampleDelegate extends LatteDelegate {
     }
 
     private void testRestClient(){
-        Log.d("ExampleDelegate", "ExampleApp: "+ Latte.getConfigurations());
+
         RestClient.bulider()
-                .url("http://news.baidu.com/")
+//                .url("http://news.baidu.com/")
+                .url("http://192.168.1.99/index")
 //                .params("","")
                 .loader(getActivity())
                 .success(new ISuccess() {

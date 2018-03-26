@@ -5,6 +5,7 @@ import android.util.Log;
 
 import com.dsh.latte.app.Latte;
 import com.dsh.latte.ec.icon.FontEcModule;
+import com.dsh.latte.net.interceptors.DebugInterceptor;
 import com.joanzapata.iconify.fonts.FontAwesomeModule;
 
 /**
@@ -21,6 +22,7 @@ public class ExampleApp extends Application {
                 .withIcon(new FontAwesomeModule())//字体图标
                 .withIcon(new FontEcModule())//自定义图标
                 .withApiHost("http://192.168.1.99/")
+                .withInterceptor(new DebugInterceptor("index",R.raw.test))
                 .configure();
         Log.d("ExampleApp", "onCreate: ExampleApp初始化完成");
     }
