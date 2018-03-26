@@ -33,6 +33,7 @@ public class ExampleDelegate extends LatteDelegate {
         RestClient.bulider()
                 .url("http://news.baidu.com/")
 //                .params("","")
+                .loader(getActivity())
                 .success(new ISuccess() {
                     @Override
                     public void onSuccess(String response) {
