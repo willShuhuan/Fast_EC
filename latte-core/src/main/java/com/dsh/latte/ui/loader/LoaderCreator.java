@@ -1,4 +1,4 @@
-package com.dsh.latte.ui;
+package com.dsh.latte.ui.loader;
 
 import android.content.Context;
 import android.util.Log;

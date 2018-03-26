@@ -6,7 +6,7 @@ import com.dsh.latte.net.callback.IError;
 import com.dsh.latte.net.callback.IFailure;
 import com.dsh.latte.net.callback.IRequest;
 import com.dsh.latte.net.callback.ISuccess;
-import com.dsh.latte.ui.LoaderStyle;
+import com.dsh.latte.ui.loader.LoaderStyle;
 
 import java.io.File;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package com.dsh.latte.ui;
+package com.dsh.latte.ui.loader;
 
 /**
  * Created by Adam on 2018/3/19.

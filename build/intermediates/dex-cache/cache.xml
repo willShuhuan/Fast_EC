@@ -3,6 +3,15 @@
 
     <item
         is-multidex="false"
+        jar="D:\DHStore\example\build\intermediates\exploded-aar\com.ToxicBakery.viewpager.transforms\view-pager-transforms\1.2.32\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="392c97a8270ccf3cc7fe6e0a5d97a5e97a61e65c">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\com.ToxicBakery.viewpager.transforms-view-pager-transforms-1.2.32_61f7a9dba68b2d5a82b18bb69d38ddb6977f4aa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.6.0\48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8\butterknife-annotations-8.6.0.jar"
         jumboMode="false"
         optimize="true"
@@ -30,6 +39,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="D:\DHStore\example\build\intermediates\exploded-aar\com.joanzapata.iconify\android-iconify\2.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="970b2eadc8805e4e04a9008f97368c7b8cc78651">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\com.joanzapata.iconify-android-iconify-2.2.2_bc41a14106271f29072db030ac0ee74173c21c97.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-scalars\2.3.0\1eaa5762cb25c31b1905e2bfdfef70a2e0495ea6\converter-scalars-2.3.0.jar"
         jumboMode="false"
         optimize="true"
@@ -39,12 +57,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\DHStore\example\build\intermediates\exploded-aar\com.joanzapata.iconify\android-iconify\2.2.2\jars\classes.jar"
+        jar="D:\DHStore\example\build\intermediates\exploded-aar\com.bigkoo\convenientbanner\2.0.5\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
-        sha1="970b2eadc8805e4e04a9008f97368c7b8cc78651">
-        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\com.joanzapata.iconify-android-iconify-2.2.2_bc41a14106271f29072db030ac0ee74173c21c97.jar" />
+        sha1="b99798f653c15a17af6779bb9f01a66f2ee6e6ef">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\com.bigkoo-convenientbanner-2.0.5_28538e7c7527f6557ed9ec7182b6319589bc4a1c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -61,7 +79,7 @@
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
-        sha1="8517f5c546f185bd3d79c14e8b9790f36e719810">
+        sha1="3aafd3d42f092ce674c51d50a312757967a14439">
         <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\DHStore-latte-core-unspecified_c837888ef63660a3cc0a7df414e9de701a5a3c22.jar" />
     </item>
     <item
@@ -99,6 +117,15 @@
         revision="25.0.1"
         sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
         <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\retrofit-2.3.0_098b09b6a11593dc20fc4b42f55a6f8fd8090285.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\reactive-streams-1.0.0_5ea215fafe26757b3eaa9e791da078c680959e41.jar" />
     </item>
     <item
         is-multidex="false"
@@ -144,6 +171,15 @@
         revision="25.0.1"
         sha1="f71558fd43c0f31c018bd01e950bd6e32aa67dff">
         <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\com.joanzapata.iconify-android-iconify-ionicons-2.2.2_c3f4df1b0f775acffdf3ec573db140bc17b2acbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.1.1\99895d4dc6d79efbb74360f13c556d95533ad8f8\rxjava-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="99895d4dc6d79efbb74360f13c556d95533ad8f8">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\rxjava-2.1.1_2cdee50dee1f151583b78195842406998e085785.jar" />
     </item>
     <item
         is-multidex="false"
@@ -228,12 +264,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="D:\DHStore\example\build\intermediates\exploded-aar\io.reactivex.rxjava2\rxandroid\2.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\io.reactivex.rxjava2-rxandroid-2.0.1_3ada2ad60300429efb91e8ce9f3482b9cc4149a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
         sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
         <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\okio-1.13.0_f63c7ab08dbed3c34e0fe0b9b1a691240ffa1bb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava2\2.3.0\f436637f9500ab5b8bc32afe556373180894b4a5\adapter-rxjava2-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f436637f9500ab5b8bc32afe556373180894b4a5">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\adapter-rxjava2-2.3.0_44f20bf39a10c4d40d1c07bbfcf28ac2b66d410f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -273,12 +327,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\DHStore\latte-annotations\build\libs\latte-annotations.jar"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.alibaba\fastjson\1.1.57.android\432b7cdf5c6aedc452406928adea891136569091\fastjson-1.1.57.android.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
-        sha1="f5cc3592ecb54c46762f4f111f4de821834358e0">
-        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\latte-annotations_3a512441b58efe77e24995c039ed3cd000faa765.jar" />
+        sha1="432b7cdf5c6aedc452406928adea891136569091">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\fastjson-1.1.57.android_7e282917f2e24b30c824d5e685523dc3f31d9572.jar" />
     </item>
     <item
         is-multidex="false"
@@ -286,8 +340,17 @@
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
-        sha1="3a515d33dc9f76bbe8c91953311895ea04391ef7">
+        sha1="ed59b1e47bf95986929cbcc41392f6d1f48353b5">
         <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\DHStore-latte-ec-unspecified_d6ee45e0e772a870f77d95546770a9ee1c7121fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DHStore\latte-annotations\build\libs\latte-annotations.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d1110a55f05c01eedfb5d6de97295c5e5280165d">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\latte-annotations_3a512441b58efe77e24995c039ed3cd000faa765.jar" />
     </item>
     <item
         is-multidex="false"
