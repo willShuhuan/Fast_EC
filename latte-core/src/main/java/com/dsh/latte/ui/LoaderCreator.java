@@ -1,6 +1,7 @@
 package com.dsh.latte.ui;
 
 import android.content.Context;
+import android.util.Log;
 
 import com.wang.avi.AVLoadingIndicatorView;
 import com.wang.avi.Indicator;
@@ -25,18 +26,16 @@ public final class LoaderCreator {
         return avLoadingIndicatorView;
     }
 
-    private static Indicator getIndicator(String name){
-        if (name==null||name.isEmpty()){
+    private static Indicator getIndicator(String name) {
+        if (name == null || name.isEmpty()) {
             return null;
         }
         final StringBuilder drawableClassName = new StringBuilder();
-        if (name.contains(".")){
+        if (!name.contains(".")) {
             final String defaultPackageName = AVLoadingIndicatorView.class.getPackage().getName();
             drawableClassName.append(defaultPackageName)
                     .append(".indicators")
                     .append(".");
-
-
         }
         drawableClassName.append(name);
         try {

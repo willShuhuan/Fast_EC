@@ -61,7 +61,7 @@
         jumboMode="false"
         optimize="true"
         revision="25.0.1"
-        sha1="8abbe4ad0541c2adf05dddfd1f18a8e17d8711c7">
+        sha1="8517f5c546f185bd3d79c14e8b9790f36e719810">
         <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\DHStore-latte-core-unspecified_c837888ef63660a3cc0a7df414e9de701a5a3c22.jar" />
     </item>
     <item
@@ -126,6 +126,15 @@
         revision="25.0.1"
         sha1="7a038e2b43523099a6b30aeea0683a0ba2d44ba2">
         <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\me.yokeyword-fragmentation-1.0.3_6123dec3b3cfa140f3ba0d71bb6f7bd8d317309d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\DHStore\example\build\intermediates\exploded-aar\com.wang.avi\library\2.1.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e699699fae0092703de1d02b217f43803d0f7e0a">
+        <dex dex="D:\DHStore\example\build\intermediates\pre-dexed\debug\com.wang.avi-library-2.1.3_623f03c236e98186dca50f67f9ba19908fd85108.jar" />
     </item>
     <item
         is-multidex="false"
