@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="fragmentation-1.3.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/latte-core/build/intermediates/exploded-aar/me.yokeyword/fragmentation/1.3.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/latte-core/build/intermediates/exploded-aar/me.yokeyword/fragmentation/1.3.3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.yokeyword/fragmentation/1.3.3/53744c5d357bd4eb46ba50111083921e6baba837/fragmentation-1.3.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

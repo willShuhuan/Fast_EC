@@ -25,6 +25,7 @@ public class ExampleDelegate extends LatteDelegate {
 
     @Override
     public void onBindView(@Nullable Bundle savedInstanceState, View rootView) {
+
         testRestClient();
     }
 
@@ -55,5 +56,10 @@ public class ExampleDelegate extends LatteDelegate {
                 })
                 .build()
                 .get();
+    }
+
+    @Override
+    public void post(Runnable runnable) {
+
     }
 }

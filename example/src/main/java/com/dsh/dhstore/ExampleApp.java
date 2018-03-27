@@ -4,6 +4,7 @@ import android.app.Application;
 import android.util.Log;
 
 import com.dsh.latte.app.Latte;
+import com.dsh.latte.ec.database.DatabaseManager;
 import com.dsh.latte.ec.icon.FontEcModule;
 import com.dsh.latte.net.interceptors.DebugInterceptor;
 import com.joanzapata.iconify.fonts.FontAwesomeModule;
@@ -25,5 +26,6 @@ public class ExampleApp extends Application {
                 .withInterceptor(new DebugInterceptor("index",R.raw.test))
                 .configure();
         Log.d("ExampleApp", "onCreate: ExampleApp初始化完成");
+        DatabaseManager.getInstance().init(this);
     }
 }

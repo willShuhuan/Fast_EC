@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="fragmentation-swipeback-1.3.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/latte-core/build/intermediates/exploded-aar/me.yokeyword/fragmentation-swipeback/1.3.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/latte-core/build/intermediates/exploded-aar/me.yokeyword/fragmentation-swipeback/1.3.3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.yokeyword/fragmentation-swipeback/1.3.3/b7d91c654116d0856b5554aa7365c4e3012d09de/fragmentation-swipeback-1.3.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

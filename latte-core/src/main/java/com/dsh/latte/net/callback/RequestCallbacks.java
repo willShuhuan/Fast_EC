@@ -1,6 +1,7 @@
 package com.dsh.latte.net.callback;
 
 import android.os.Handler;
+import android.util.Log;
 
 import com.dsh.latte.ui.loader.LatteLoader;
 import com.dsh.latte.ui.loader.LoaderStyle;
@@ -37,6 +38,7 @@ public class RequestCallbacks implements Callback<String>{
             if (call.isExecuted()){
                 if (SUCCESS!=null){
                     SUCCESS.onSuccess(response.body());
+                    Log.d("RequestCallbacks", "onResponse: "+response.body().toString());
                 }
             }
         }else {
