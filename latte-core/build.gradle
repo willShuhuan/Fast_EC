@@ -69,4 +69,6 @@ dependencies {
     //Banner依赖
     compile 'com.bigkoo:convenientbanner:2.0.5'
     compile 'com.ToxicBakery.viewpager.transforms:view-pager-transforms:1.2.32@aar'
+    //微信依赖（包含统计）
+    compile 'com.tencent.mm.opensdk:wechat-sdk-android-with-mta:1.3.4'
 }

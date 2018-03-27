@@ -3,151 +3,151 @@ package com.dsh.latte.ec.base;
 import android.os.Environment;
 
 public class Constants {
-	//»·ĞÅ¿Í·şÕËºÅ
+	//ç¯ä¿¡å®¢æœè´¦å·
 	public static final String ToChatUserName = "kefuchannelimid_671131";
 
-	public static final String DESCRIPTOR = "com.umeng.share";//ÓÑÃË·ÖÏí
+	public static final String DESCRIPTOR = "com.umeng.share";//å‹ç›Ÿåˆ†äº«
 	public static final String ALI_UP_URL = "http://img.mydubang.com/";
-	//°æ±¾¸üĞÂ½Ó¿Ú
+	//ç‰ˆæœ¬æ›´æ–°æ¥å£
 	public static final String Action_GetVersion = "version/getVersionByClientCode";
-	//»ñÈ¡ÍÆ¼öÎ»
+	//è·å–æ¨èä½
 	public static final String Action_GetRecommend = "banner/getRecommendList";
 	public static final String Action_GetCode = "user/sendCode";
-	//×¢²á
+	//æ³¨å†Œ
 	public static final String Action_Register = "user/register";
-	//µÇÂ¼
+	//ç™»å½•
 	public static final String Action_Login = "user/login";
-	//»ñÈ¡ÓÃ»§¸öÈËĞÅÏ¢
+	//è·å–ç”¨æˆ·ä¸ªäººä¿¡æ¯
 	public static final String Action_getUserLoginMsg = "user/getUserLoginMsg";
-	//Íü¼ÇÃÜÂë
+	//å¿˜è®°å¯†ç 
 	public static final String Action_ResetPsd = "user/forgetPassword";
-	//»ñÈ¡µ±Ç°³ÇÊĞËùÓĞÓĞÈÎÎñµÄÃÅµêºÍÃÅµê×ÜÓ¶½ğ
+	//è·å–å½“å‰åŸå¸‚æ‰€æœ‰æœ‰ä»»åŠ¡çš„é—¨åº—å’Œé—¨åº—æ€»ä½£é‡‘
 	public static final String Action_appGetTaskStoreWithCityName = "task/appGetTaskStoreWithCityName";
-	//»ñÈ¡¸½½üÃÅµêµÄÈÎÎñºÍÓ¶½ğ
+	//è·å–é™„è¿‘é—¨åº—çš„ä»»åŠ¡å’Œä½£é‡‘
 	public static final String Action_appGetNearestTaskStore = "store/getNearestStoreAmountByScity";
-	//»ñÈ¡Ä³ÇøµÄÈÎÎñ
+	//è·å–æŸåŒºçš„ä»»åŠ¡
 	public static final String Action_appGetTaskStoreWithCityNameAndDistrict = "task/appGetTaskStoreWithCityNameAndDistrict";
-	//»ñÈ¡³ÇÊĞ¸÷¸öÇøµÄÈÎÎñÓ¶½ğ
+	//è·å–åŸå¸‚å„ä¸ªåŒºçš„ä»»åŠ¡ä½£é‡‘
 	public static final String Action_appGetTaskStoreCityPartition = "task/appGetTaskStoreCityPartition";
-	//¸ù¾İÃÅµê±àºÅ»ñÈ¡´ËÃÅµêÖĞËùÓĞµÄÈÎÎñ
+	//æ ¹æ®é—¨åº—ç¼–å·è·å–æ­¤é—¨åº—ä¸­æ‰€æœ‰çš„ä»»åŠ¡
 	public static final String Action_appGetALLTaskWithStoreID = "task/getStateOneTaskByStid";
-	//2.12.	¹ã²¥½Ó¿Ú
+	//2.12.	å¹¿æ’­æ¥å£
 	public static final String Action_appGetAllRadioBroadcast = "radioBroadcast/appGetAllRadioBroadcast";
-	//2.13.	»î¶¯½Ó¿Ú
+	//2.13.	æ´»åŠ¨æ¥å£
 //	public static final String Action_appGetAllActivity = "activity/getStateZeroActivityByCity";
 	public static final String Action_appGetAllActivity = "activity/getAllActivityByCity";
-	//2.13.	»ñÈ¡ÏµÍ³¹ã²¥
+	//2.13.	è·å–ç³»ç»Ÿå¹¿æ’­
 	public static final String Action_applistBroadCast = "user/getSystemMsg";
-	//²éÑ¯ÓÃ»§µ±Ç°µÄ¶©µ¥
+	//æŸ¥è¯¢ç”¨æˆ·å½“å‰çš„è®¢å•
 	public static final String Action_appListTaskOrder="taskorder/getUserTaskOrderByState";
-	//¶¨µã/·Ç¶¨µãÈÎÎñ
+	//å®šç‚¹/éå®šç‚¹ä»»åŠ¡
 	public static final String Action_appListWorkOrder="workOrder/listWorkOrder";
-	//¶¨µãÈÎÎñÏêÇé
+	//å®šç‚¹ä»»åŠ¡è¯¦æƒ…
 	public static final String Action_getWorkorderInfo_dd = "workOrder/getWorkorderInfo";
 	public static final String Action_getWorkorderInfo_fdd = "workOrder/getCityTaskInfo";
-	//ÓÃ»§ÇÀµ¥
+	//ç”¨æˆ·æŠ¢å•
 	public static final String Action_appAddTaskOrder="taskorder/addTaskOrder";
-	//·Ç¶¨µãÈÎÎñÇÀµ¥
+	//éå®šç‚¹ä»»åŠ¡æŠ¢å•
 	public static final String Action_appAddFDDTaskOrder="taskorder/addUnPointTaskOrder";
-	//Ìí¼Ó¹Ø×¢µêÆÌ
+	//æ·»åŠ å…³æ³¨åº—é“º
 	public static final String Action_appAddUserAttention="userattention/userAddAttention";
-	//È¡ÏûÃÅµê¹Ø×¢
+	//å–æ¶ˆé—¨åº—å…³æ³¨
 	public static final String Action_appUserDelUserAttention="userattention/userCancelAttention";
-	//È¡ÏûµêÆÌ¹Ø×¢
+	//å–æ¶ˆåº—é“ºå…³æ³¨
 	public static final String Action_appDelUserAttention="userAttention/appDelUserAttention";
-	//»ñÈ¡µêÆÌ¹Ø×¢ÁĞ±í
+	//è·å–åº—é“ºå…³æ³¨åˆ—è¡¨
 	public static final String Action_appGetAllUserAttention="userattention/getAttentionMessageByUid";
-	//²éÑ¯ÒøĞĞ¿¨Ö§¸¶±¦ÕË»§
+	//æŸ¥è¯¢é“¶è¡Œå¡æ”¯ä»˜å®è´¦æˆ·
 	public static final String Action_appUserGetBankCard="bankcard/listBankCardByUid";
-	//Éí·İÖ¤ÊµÃûÈÏÖ¤
+	//èº«ä»½è¯å®åè®¤è¯
 	public static final String Action_addIdentity="identity/addIdentity";
-	//É¾³ıÓÃ»§ÕË»§
+	//åˆ é™¤ç”¨æˆ·è´¦æˆ·
 	public static final String Action_appDelBankCard="bankcard/delBankCard";
-	//Ìí¼ÓÒøĞĞ¿¨»òÕßÖ§¸¶±¦ÕË»§
+	//æ·»åŠ é“¶è¡Œå¡æˆ–è€…æ”¯ä»˜å®è´¦æˆ·
 	public static final String Action_appAddBankCard="bankcard/addBankCard";
-	//ĞŞ¸ÄÓÃ»§ĞÅÏ¢
+	//ä¿®æ”¹ç”¨æˆ·ä¿¡æ¯
 	public static final String Action_appAlterUser="user/updateUser";
-	//ĞŞ¸ÄÃÜÂë
+	//ä¿®æ”¹å¯†ç 
 	public static final String Action_appAlterPassword="user/alterPassword";
-	//ÓÃ»§ÌáÏÖ
+	//ç”¨æˆ·æç°
 	public static final String Action_appAddWithDraw="withDraw/appAddWithDraw";
-	//ÓÃ»§·´À¡
+	//ç”¨æˆ·åé¦ˆ
 	public static final String Action_appAddLeaveMessage="leaveMessage/addLeaveMessage";
-	//ËÑË÷
+	//æœç´¢
 	public static final String Action_appGetAllSearchStore="store/appGetAllSearchStore";
-	//µÚÈı·½µÇÂ¼°ó¶¨ÊÖ»úºÅÂë
+	//ç¬¬ä¸‰æ–¹ç™»å½•ç»‘å®šæ‰‹æœºå·ç 
 	public static final String Action_appBindingAccount="thirdpartyLogin/bindAccount";
-	//µÚÈı·½µÇÂ¼Ê±¼ì²éÓÃ»§ÊÇ·ñ×¢²á
+	//ç¬¬ä¸‰æ–¹ç™»å½•æ—¶æ£€æŸ¥ç”¨æˆ·æ˜¯å¦æ³¨å†Œ
 	public static final String Action_appCheckUserExit = "user/getUserByUserPhone";
-	//µÚÈı·½µÇÂ¼
+	//ç¬¬ä¸‰æ–¹ç™»å½•
 	public static final String Action_thirdPartyLogin="thirdpartyLogin/login";
-	//»ñÈ¡½ğ¶î¼°Ã÷Ï¸ÁĞ±í
+	//è·å–é‡‘é¢åŠæ˜ç»†åˆ—è¡¨
 	public static final String Action_appGetUserAllParticular="particular/getParticularByUid";
-	//ÊÕÈëÍ³¼ÆÇé¿ö
+	//æ”¶å…¥ç»Ÿè®¡æƒ…å†µ
 	public static final String Action_getParticularAccount="particular/getParticularAccount";
-	//ÌáÈ¡²éÑ¯Çé¿ö
+	//æå–æŸ¥è¯¢æƒ…å†µ
 	public static final String Action_getWithDrawByUidWithQuery="withDraw/getWithDrawByUidWithQuery";
-	//Ìá½»ÈÎÎñ¼°·´À¡
+	//æäº¤ä»»åŠ¡åŠåé¦ˆ
 	public static final String Action_appAddTaskFeedBack="taskFeedback/addTaskFeedback";
-	//ĞŞ¸ÄÈÎÎñ¼°·´À¡
+	//ä¿®æ”¹ä»»åŠ¡åŠåé¦ˆ
 	public static final String Action_appUpdateTaskFeedBack="taskFeedback/updateTaskFeedBack";
-	//»ñÈ¡ÓÃ»§½ğ¶î
+	//è·å–ç”¨æˆ·é‡‘é¢
 	public static final String Action_appGetMoney="user/getUserMoneys";
-	//ÈÎÎñÌáĞÑ
+	//ä»»åŠ¡æé†’
 	public static final String Action_appGetUserAllRemind="taskorder/getTaskOrderByUid";
-	//¼ì²éµêÆÌÊÇ·ñ¹Ø×¢
+	//æ£€æŸ¥åº—é“ºæ˜¯å¦å…³æ³¨
 	public static final String Action_appCheckUserAttention="userAttention/appCheckUserAttention";
-	//ÉèÖÃÌáÏÖÃÜÂë
+	//è®¾ç½®æç°å¯†ç 
 	public static final String Action_appResetBankPassword="user/resetBankPassword";
-	//È¡Ïû¶©µ¥
+	//å–æ¶ˆè®¢å•
 	public static final String Action_appDelTaskOrder="taskorder/cancelTaskOrder";
-	//¼ì²éÊÇ·ñÉèÖÃÌáÏÖÃÜÂë
+	//æ£€æŸ¥æ˜¯å¦è®¾ç½®æç°å¯†ç 
 	public static final String Action_appCheckUserBankPassWord="user/checkBankPassword";
-	//Ò»¼üÇÀÈ«µêÈÎÎñ
+	//ä¸€é”®æŠ¢å…¨åº—ä»»åŠ¡
 	public static final String Action_appAddTaskOrderWithStid="taskorder/addTaskFeedbackByStid";
-	//»ñÈ¡ĞÅÓÃµÈ¼¶
+	//è·å–ä¿¡ç”¨ç­‰çº§
 	public static final String Action_appGetRate="integral/getIntegralByUid";
-	//»î¶¯Ä£°å·´À¡
+	//æ´»åŠ¨æ¨¡æ¿åé¦ˆ
 	public static final String Action_appAddTempTask="template/listTemplate";
 	public static final String Action_appUpdateTempTask="template/ updateTemplate";
-	//»ñÈ¡»ı·ÖÁĞ±í
+	//è·å–ç§¯åˆ†åˆ—è¡¨
 	public static final String Action_appGetIntegralByUid = "integral/getIntegralByUid";
-	//»ñÈ¡Ê×Ò³ÈÎÎñ´ıÇÀµ¥ÈÎÎñĞÅÏ¢
+	//è·å–é¦–é¡µä»»åŠ¡å¾…æŠ¢å•ä»»åŠ¡ä¿¡æ¯
 	public static final String Action_appGetTask = "task/getTaskInfo";
-	//»ñÈ¡ÎÒµÄÈÎÎñĞÅÏ¢
+	//è·å–æˆ‘çš„ä»»åŠ¡ä¿¡æ¯
 	public static final String Action_appGetTaskDetail = "task/getUserTaskInfoByTid";
 	public static final String Action_appGetTaskDetailByOid = "task/getUserTaskInfoByOid";
-	//»ñÈ¡¸÷ÀàĞÍÎ´¶ÁÏûÏ¢ÊıÁ¿
+	//è·å–å„ç±»å‹æœªè¯»æ¶ˆæ¯æ•°é‡
 	public static final String Action_getUserMessageCount="usermessage/getUserMessageCountByUid";
-	//»ñÈ¡ÓÃ»§ĞÅÏ¢¼°»ı·Ö
+	//è·å–ç”¨æˆ·ä¿¡æ¯åŠç§¯åˆ†
 	public static final String Action_getUserByUid="user/getUserByUid";
-	//Éí·İÖ¤ºÅÂëÊµÃûÈÏÖ¤
+	//èº«ä»½è¯å·ç å®åè®¤è¯
 	public static final String Action_certification = "user/certification";
-	//»ñÈ¡½Ì³Ì
+	//è·å–æ•™ç¨‹
 	public static final String Action_getAllCourse = "course/getAllCourse";
-	//»ñÈ¡ÈÎÎñÉóºË»ò²¹³äÊ§°ÜµÄÔ­Òò
+	//è·å–ä»»åŠ¡å®¡æ ¸æˆ–è¡¥å……å¤±è´¥çš„åŸå› 
 	public static final String Action_getFailReason = "taskFeedback/getFailReason";
-	//ºì°üÏêÇé
+	//çº¢åŒ…è¯¦æƒ…
 	public static final String Action_getRedPackDetails = "user/getRedPackDetails";
-	//ºì°ü×ª´æ
+	//çº¢åŒ…è½¬å­˜
 	public static final String Action_addRedPackToBalance = "user/addRedPackToBalance";
-	//ÏòºóÌ¨·¢ËÍÊ¡·İºÍ³ÇÊĞĞÅÏ¢
+	//å‘åå°å‘é€çœä»½å’ŒåŸå¸‚ä¿¡æ¯
 	public static final String Action_updateUserProvinceCity = "user/updateUserProvinceCity";
-	//ÈÎÎñÉ¸Ñ¡½Ó¿Ú
+	//ä»»åŠ¡ç­›é€‰æ¥å£
 	public static final String Action_ListTask = "task/listTask";
-	//»ñÈ¡ÁÙÆÚÈÎÎñÁĞ±í
+	//è·å–ä¸´æœŸä»»åŠ¡åˆ—è¡¨
 	public static final String Action_listTaskOrderDelay = "taskorder/listTaskOrderDelay";
-	//ÅúÁ¿ÓÃ»§È¡Ïû¶©µ¥
+	//æ‰¹é‡ç”¨æˆ·å–æ¶ˆè®¢å•
 	public static final String Action_batchCancelTaskOrder = "taskorder/batchCancelTaskOrder";
-	//ÅúÁ¿ÑÓÆÚ
+	//æ‰¹é‡å»¶æœŸ
 	public static final String Action_delayTaskOrder = "taskorder/delayTaskOrder";
-	//ÓÃ»§Î´¶ÁÏûÏ¢ÊıÁ¿
+	//ç”¨æˆ·æœªè¯»æ¶ˆæ¯æ•°é‡
 	public static final String Action_getUserMessageCountByUid =
 			"usermessage/getUserMessageCountByUid";
 
 	public static final String BaseFilePath = Environment.getExternalStorageDirectory() + "/DHStore/";
 
-	public static String BASE_IP = "http://47.93.89.164/xiangpai/app/"; //ĞÂ°æ²âÊÔ·ş
+	public static String BASE_IP = "http://47.93.89.164/xiangpai/app/"; //æ–°ç‰ˆæµ‹è¯•æœ
 
 
 }

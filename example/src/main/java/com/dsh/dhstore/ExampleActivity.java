@@ -29,7 +29,7 @@ public class ExampleActivity extends ProxyActivity implements
         if (actionBar != null) {
             actionBar.hide();
         }
-//        Latte.getConfigurator().withActivity(this);
+        Latte.getConfigurator().withActivity(this);
 //        StatusBarCompat.translucentStatusBar(this, true);
 
     }
